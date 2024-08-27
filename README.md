@@ -6,7 +6,7 @@
 
 #### Image:
 
-<img src="https://images2.imgbox.com/b3/d5/09sLKh1N_o.png" width="200">
+<img src="https://cdn.discordapp.com/attachments/690289899395350541/1278061793050099853/WhitePeople.jpg?ex=66cf6f4c&is=66ce1dcc&hm=d509a26c0567016f2a72a7b12972d92d18360c9deb389a0c2733609d4093e5fb&" width="200">
 
 #### Avatar:
 
