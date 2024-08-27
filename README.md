@@ -6,7 +6,8 @@
 
 #### Image:
 
-<img src="![image](https://github.com/user-attachments/assets/663de2b0-feb3-4c7c-b313-cc5ae8fd29cf)
+<img src="![image](![1286waeo9bsc1](https://github.com/user-attachments/assets/0d277528-9370-4da6-b1c0-d4a0d306c5a7)
+)
 " width="200">
 
 #### Avatar:
