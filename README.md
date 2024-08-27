@@ -6,8 +6,7 @@
 
 #### Image:
 
-<img src="![image](![1286waeo9bsc1](https://github.com/user-attachments/assets/0d277528-9370-4da6-b1c0-d4a0d306c5a7)
-)
+<img src="https://cdn.discordapp.com/attachments/690289899395350541/1278058559074078762/1286waeo9bsc1.jpeg?ex=66cf6c49&is=66ce1ac9&hm=a636426578e5d12cb799a5b085a8bd9526d38a228793c464d5e220150bcb82e5&
 " width="200">
 
 #### Avatar:
