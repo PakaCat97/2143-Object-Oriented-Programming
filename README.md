@@ -10,4 +10,4 @@
 
 #### Avatar:
 
-<img src="https://cdn.discordapp.com/attachments/690289899395350541/1278059710112731180/etrysth.png?ex=66cf6d5c&is=66ce1bdc&hm=54209ffa5f4dd24148bb6839e2d4d7d3df62c7ce20e05de3477c41069b9486d3&" width="75">
+<img src="https://cdn.discordapp.com/attachments/690289899395350541/1278942696521732197/image.png?ex=66d2a3b4&is=66d15234&hm=02cd4be1efea0e389cb1704fa2ca7f85cef925e0fafc6f6fbf34a64b401a85bb&" width="75">
