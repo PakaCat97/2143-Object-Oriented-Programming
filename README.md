@@ -6,7 +6,7 @@
 
 #### Image:
 
-<img src="https://cdn.discordapp.com/attachments/690289899395350541/1278823202717565022/image.jpg?ex=66d2346a&is=66d0e2ea&hm=1f07a086cf7a577e84c1af3ab74ba5d7d5b4b017ea3ebe042374f0a6ab34306d&" width="200">
+<img src="https://imgbox.com/oicfMoaq" width="200">
 
 #### Avatar:
 
