@@ -6,8 +6,7 @@
 
 #### Image:
 
-<img src="![oicfMoaq_o](https://github.com/user-attachments/assets/b6a62c0a-7ea7-4b76-a4ce-e5c441b99f0e)
-" width="200">
+<img src="https://imgbox.com/oicfMoaq" width="200">
 
 #### Avatar:
 
